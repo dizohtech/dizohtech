@@ -1,5 +1,12 @@
 # 💫 About Me:
-👀 I’m interested in web development and cybersecurity.<br>🌱 I’m currently learning JavaScript and Python.<br>💞️ I’m looking to collaborate on open-source projects.<br>📫 How to reach me: dizohtechcyber@gmail.com<br>😄 Pronouns: they/them<br>⚡ Fun fact: I love hiking and photography!
+
+👨‍💻 I’m passionate about web development and cybersecurity.  
+🧠 I’m proficient in JavaScript and Python.  
+🤝 I’m open to collaborating on open-source and impactful tech projects.  
+📫 Reach me via email: dizohtechcyber@gmail.com  
+💬 Chat with me on WhatsApp: [+254 724 948294](https://wa.me/254724948294)  
+😄 Pronouns: they/them  
+📸 Fun fact: I love hiking and capturing nature through photography!
 
 
 ## 🌐 Socials:
